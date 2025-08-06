@@ -45,7 +45,8 @@
 He/Him
 
 ## ⚡ Fun facts
-- Former Military Intelligence analyst turned literary scholar
+- Former Marine Combat Engineer analyst turned literary scholar
+- [Warrior-Scholar Project](https://warrior-scholar.org/) Alumni. Columbia Humanities course 2019.
 - Writing science fiction novels while pursuing my PhD
 - I believe the best innovations come from architecting new systems from existing components
 - I'm made of pure Slytherin energy and Win (the win is the most important part)
