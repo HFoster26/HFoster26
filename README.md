@@ -6,7 +6,7 @@
 
 ## 🐍 I'm currently working on
 - **The Badman Evolution Digital Archive**: An interactive platform tracking African American heroic archetypes from Stagolee to contemporary superheroes
-- **PhD Dissertation**: "The Myth of the Black Hero: From Badman to Creator in 150 Years of African American Cultural Production"
+- **(Tentative) PhD Dissertation**: "The Myth of the Black Hero: From Badman to Creator in 150 Years of African American Cultural Production"
 - **CHI Fellowship Project**: Building digital humanities tools that preserve community narratives while teaching computational thinking
 - **The War in Silence Saga**: A science fiction novel series exploring post-revolutionary futures
 
